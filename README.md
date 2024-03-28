@@ -1,7 +1,7 @@
 # MedViT-UNETR: Hybrid Vision Transformer for 3D Medical Image Segmentation
 
 ## Introduction
-***MedViT-UNETR*** is a novel deep learning framework designed to harness the power of Vision Transformers (ViT) adapter and UNETR for accurate and efficient 3D medical image segmentation. By combining the strengths of both models, ***MedViT-UNETR*** is capable of capturing global contextual information and fine-grained details essential for segmenting complex anatomical structures in medical images.
+***MedViT-UNETR*** is a novel deep learning framework designed to harness the power of Vision Transformers (ViT) and UNETR for accurate and efficient 3D medical image segmentation. By combining the strengths of both models, ***MedViT-UNETR*** is capable of capturing global contextual information and fine-grained details essential for segmenting complex anatomical structures in medical images.
 
 ## Structure Description
 ViT-UNETR is structured as a hybrid model that utilizes the following components:
